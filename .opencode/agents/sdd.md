@@ -1,6 +1,7 @@
 ---
 description: Agente SDD - impone el workflow Spec-Driven Development (REQ -> AC -> IMP -> CODE -> TEST -> VALIDATION) con gates de aprobacion explicitos
 mode: primary
+color: "#fa756b"
 ---
 
 # Agente SDD (Spec-Driven Development)
